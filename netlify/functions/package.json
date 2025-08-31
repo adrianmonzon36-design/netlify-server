@@ -1,0 +1,8 @@
+{
+  "name": "netlify-server",
+  "version": "1.0.0",
+  "description": "Server for AI app",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
